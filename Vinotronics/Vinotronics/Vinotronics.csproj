@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="orderInfo\" />
+    <Folder Include="Mocks\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Newegg.Marketplace.SDK" Version="1.0.8" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="Mocks\settings.json" />
+  </ItemGroup>
+</Project>

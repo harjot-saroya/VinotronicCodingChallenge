@@ -1,0 +1,4 @@
+/Users/harjo/Desktop/Vinotronics/Vinotronics/obj/Debug/netcoreapp2.1/Vinotronics.csprojAssemblyReference.cache
+/Users/harjo/Desktop/Vinotronics/Vinotronics/obj/Debug/netcoreapp2.1/Vinotronics.AssemblyInfoInputs.cache
+/Users/harjo/Desktop/Vinotronics/Vinotronics/obj/Debug/netcoreapp2.1/Vinotronics.AssemblyInfo.cs
+/Users/harjo/Desktop/Vinotronics/Vinotronics/obj/Debug/netcoreapp2.1/Vinotronics.csproj.CoreCompileInputs.cache
