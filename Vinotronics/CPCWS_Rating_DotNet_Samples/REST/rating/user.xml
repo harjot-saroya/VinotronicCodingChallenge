@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<appSettings>
+	<!-- Replace ChangeMeAK with your USERNAME -->
+	<add key="username" value="c6a5778bd92909a6" />
+	<!-- Replace ChangeMePW with your PASSWORD -->
+	<add key="password" value="ade51e327ebd2d642df926" />
+	<!-- Replace ChangeMeCN with your Customer Number -->
+	<add key="customerNumber" value="4008838" />
+</appSettings>

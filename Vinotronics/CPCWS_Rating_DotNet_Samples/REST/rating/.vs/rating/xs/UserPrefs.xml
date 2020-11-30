@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{AA62E888-C1FC-49F7-A7FB-816CCD558919}|Default">
+  <MonoDevelop.Ide.ItemProperties.GetRates PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GetRates/GetRates.cs">
+    <Files>
+      <File FileName="schema/discovery/generated/discovery.cs" Line="1" Column="1" />
+      <File FileName="GetRates/GetRates.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="rating" expanded="True">
+            <Node name="discovery" expanded="True">
+              <Node name="generated" expanded="True" />
+            </Node>
+            <Node name="GetRates" expanded="True">
+              <Node name="GetRates.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

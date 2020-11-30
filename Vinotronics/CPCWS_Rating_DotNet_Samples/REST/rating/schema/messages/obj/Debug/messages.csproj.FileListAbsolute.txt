@@ -1,0 +1,6 @@
+/Users/harjo/Desktop/Vinotronics/CPCWS_Rating_DotNet_Samples/REST/rating/schema/messages/bin/Debug/messages.dll
+/Users/harjo/Desktop/Vinotronics/CPCWS_Rating_DotNet_Samples/REST/rating/schema/messages/bin/Debug/messages.pdb
+/Users/harjo/Desktop/Vinotronics/CPCWS_Rating_DotNet_Samples/REST/rating/schema/messages/obj/Debug/messages.csprojAssemblyReference.cache
+/Users/harjo/Desktop/Vinotronics/CPCWS_Rating_DotNet_Samples/REST/rating/schema/messages/obj/Debug/messages.csproj.CoreCompileInputs.cache
+/Users/harjo/Desktop/Vinotronics/CPCWS_Rating_DotNet_Samples/REST/rating/schema/messages/obj/Debug/messages.dll
+/Users/harjo/Desktop/Vinotronics/CPCWS_Rating_DotNet_Samples/REST/rating/schema/messages/obj/Debug/messages.pdb

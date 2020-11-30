@@ -1,0 +1,6 @@
+/Users/harjo/Desktop/Vinotronics/CPCWS_Rating_DotNet_Samples/REST/rating/schema/discovery/bin/Debug/discovery.dll
+/Users/harjo/Desktop/Vinotronics/CPCWS_Rating_DotNet_Samples/REST/rating/schema/discovery/bin/Debug/discovery.pdb
+/Users/harjo/Desktop/Vinotronics/CPCWS_Rating_DotNet_Samples/REST/rating/schema/discovery/obj/Debug/discovery.csprojAssemblyReference.cache
+/Users/harjo/Desktop/Vinotronics/CPCWS_Rating_DotNet_Samples/REST/rating/schema/discovery/obj/Debug/discovery.csproj.CoreCompileInputs.cache
+/Users/harjo/Desktop/Vinotronics/CPCWS_Rating_DotNet_Samples/REST/rating/schema/discovery/obj/Debug/discovery.dll
+/Users/harjo/Desktop/Vinotronics/CPCWS_Rating_DotNet_Samples/REST/rating/schema/discovery/obj/Debug/discovery.pdb
